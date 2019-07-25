@@ -1,6 +1,6 @@
 # Windows HackPack
 
-![blue screen of death](https://www.howtogeek.com/wp-content/uploads/2017/11/xwindows-3.1.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.IZ3FzhqP7T.png)
+![blue screen of death](https://www.howtogeek.com/wp-content/uploads/2017/11/xWindows95.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.w7HDRbAScr.png)
 
 This is a collection of scripts and registry hacks to improve/customize Windows 10 UI. 
 
