@@ -1,0 +1,56 @@
+# Windows Programs
+
+### [Pandoc](https://github.com/TheAssassin/AppImageLauncher )
+
+### [Object Desktop](https://store.stardock.com/myaccount/products)
+
+### [Typora](https://typora.io/)
+
+### [Visual Studio Code](https://code.visualstudio.com/)
+
+[Change default folder icon.](http://www.sevenforums.com/tutorials/23825-folder-icon-change-windows-7-default-folder-icon.html)
+
+[Change default open folder icon.](http://www.sevenforums.com/tutorials/23878-open-folder-icon-change.html)
+
+[Change drive icons](http://www.sevenforums.com/tutorials/65828-drive-icon-change.html) - Follow method 3.
+
+[Remove One Drive, Network etc from Navigation Pane](http://www.askvg.com/windows-10-tip-remove-onedrive-quick-access-homegroup-and-network-icons-from-navigation-pane-of-this-pc/)
+
+[Remove Display Settings from desktop context menu](http://www.tenforums.com/tutorials/24936-display-settings-desktop-context-menu-add-remove-windows-10-a.html)
+
+[Remove Personalize from desktop context menu](http://www.tenforums.com/tutorials/25058-personalize-desktop-context-menu-add-remove-windows-10-a.html)
+
+[Custom Quick Access icon](http://windowscustoms.blogspot.com.au/2016/02/how-to-change-windows-10-quick-access.html): Change data path to the location of your custom icon, [here's some](https://www.dropbox.com/s/n62j8wlbur5ady3/Icons.zip?dl=0) you can use.
+
+[Add programs to desktop context menu.](http://www.howtogeek.com/howto/windows-vista/add-any-application-to-the-desktop-right-click-menu-in-vista)
+
+[Remove shortcut arrow on folders and programs:](https://www.tenforums.com/tutorials/8974-shortcut-arrow-icon-change-remove-restore-windows-10-a.html) Method 3, leave the field blank, restart Explorer.
+
+[Remove border for video files](http://www.sevenforums.com/tutorials/48535-thumbnail-previews-change-border.html): Follow Method 2.
+
+[Change default file type icons:](http://www.sevenforums.com/tutorials/57455-file-extension-icon-change-default-icon.html) Change the file icon for all .png's or .mp4's etc.
+
+
+
+Tile.png is a template of the size and placement of the icon that your tiles should have.
+
+> Usage
+>
+> First make a shortcut (make sure it's a .lnk) of the program you want to change, then go to "C:\Users\USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs" and move it there.
+>
+> Then find the path in MyTile and change the image, if you did it correct the image will change immediately.
+>
+> *Note: Some programs, especially 10 apps, won't show up in MyTile because they won't be a .lnk.*
+>
+> To set it back to the default image delete the tile and pin it again.
+
+RICING INFO:
+Shift+Alt+P to remove the status pane in Explorer.
+
+Tools > Folder Options > View > Disable Show Status Bar.
+
+Classic Shell makes a status bar by default, open Classic Explorer Settings to disable it.
+
+https://www.sevenforums.com/tutorials/23878-open-folder-icon-change.html
+
+https://www.sevenforums.com/tutorials/23825-folder-icon-change-windows-7-default-folder-icon.html

@@ -1,0 +1,1 @@
+START https://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/thedonquixotic/74e78909a2517b856ab65dca25e4486a/raw/69fd401eaa47a7d3e5dcee1a4502d39af5f5c45d/default-startup.txt

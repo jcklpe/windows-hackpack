@@ -1,0 +1,1 @@
+START https://gist.githubusercontent.com/thedonquixotic/74e78909a2517b856ab65dca25e4486a/raw/d14482646832a146eac47ca03eaf03623fdee98f/default-startup.ps1
